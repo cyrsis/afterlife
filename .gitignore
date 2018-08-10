@@ -1,0 +1,12 @@
+node_modules
+*.log
+.DS_Store
+lib
+coverage
+dist
+/contract/build
+src/**/*.js
+src/**/*.map
+gen-src/**/*
+build
+bin
